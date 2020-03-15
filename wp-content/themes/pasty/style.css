@@ -1,0 +1,27 @@
+/*
+    theme name: Portfolio
+    version: 1.0
+    author: Asia R.
+    author url: https:
+    description: ...........................................................................
+    tags: portfolio
+ */
+
+.nav-menu ul
+{
+    text-align: center;
+}
+.nav-menu ul li
+{
+    display: inline-block;
+    list-style-type: none;
+}
+.nav-menu ul li a
+{
+    text-decoration: none;
+    padding: 10px 20px;
+}
+.nav-menu ul li:hover a
+{
+    color: gray;
+}
